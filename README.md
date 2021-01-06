@@ -1,9 +1,11 @@
 # [LeetCode](https://leetcode.com/problemset/all/)
 
 ## Algorithms
-* [Bit Manipulation](https://github.com/yutaro-shimizu/LeetCode-Solutions/blob/main/README.md#bit-manipulation)
-
-## Bit Manipulation
 |#         |Title           |Solution                  |	Time	|Space	|Difficulty	|Tag	|Note|
 |----------|----------------|--------------------------|-------|-------|-----------|-----|----|
 |0136      |[Single Number](https://leetcode.com/problems/single-number/)|Python|O(n)       |O(1)       |Easy            |    |    |
+
+## Data Science
+|#         |Question        |Solution                  |Difficulty	|Tag	|Note|
+|----------|----------------|--------------------------|------------|-----|----|
+|0136      |What is the Central Limit Theorem, and why is it important?|The normal distribution of average for a sufficiently large sample. [More info](https://spin.atomicobject.com/2015/02/12/central-limit-theorem-intro/)|Easy            |    |    |
