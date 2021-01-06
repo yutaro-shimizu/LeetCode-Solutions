@@ -8,4 +8,4 @@
 ## Data Science
 |#         |Question        |Solution                  |Difficulty	|Tag	|Note|
 |----------|----------------|--------------------------|------------|-----|----|
-|1         |What is the Central Limit Theorem, and why is it important?|The average of a sufficiently large sample will be normally distributed. [More info](https://spin.atomicobject.com/2015/02/12/central-limit-theorem-intro/)|Easy            |    |    |
+|1         |What is the Central Limit Theorem, and why is it important?|The average of a sufficiently large sample will be normally distributed, **regardless** of the original distribution. [More info](https://spin.atomicobject.com/2015/02/12/central-limit-theorem-intro/)|Easy            |    |    |
