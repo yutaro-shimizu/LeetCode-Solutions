@@ -4,6 +4,6 @@
 * Bit Manipulation
 
 ## Bit Manipulation
-|#         |Solution                  |	Time	|Space	|Difficulty	|Tag	|Note|
-|----------|--------------------------|-------|-------|-----------|-----|----|
-|0136      |[Single Number](https://leetcode.com/problems/single-number/)|O(n)       |O(1)       |Easy            |    |    |
+|#         |Title           |Solution                  |	Time	|Space	|Difficulty	|Tag	|Note|
+|----------|----------------|--------------------------|-------|-------|-----------|-----|----|
+|0136      |[Single Number](https://leetcode.com/problems/single-number/)|Python|O(n)       |O(1)       |Easy            |    |    |
