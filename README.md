@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com/problemset/all/)
 
 ## Algorithms
-*Bit Manipulation
+* Bit Manipulation
 
 ## Bit Manipulation
 |#         |Solution                  |	Time	|Space	|Difficulty	|Tag	|Note|
